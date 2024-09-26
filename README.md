@@ -4,3 +4,4 @@ Der dritte Commit.
 Der vierte Commit.
 Der fünfte Commit.
 Der sechste Commit.
+Der siebte Commit.
